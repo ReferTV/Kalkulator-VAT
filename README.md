@@ -1,2 +1,2 @@
 # Kalkulator-VAT
-Kalkulator z wprowadzaniem procentu VAT, oraz dowolnej liczby z klawiatury.
+Kalkulator z wprowadzaniem dowolnego procentu podatku VAT, oraz dowolnej liczby z klawiatury.
